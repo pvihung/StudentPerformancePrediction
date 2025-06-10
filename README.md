@@ -20,15 +20,11 @@ This synthetic dataset explores how various lifestyle habits influence academic 
 
 ## 2. Exploration Data Analysis (EDA)
 1. Distributions
-Visualize the distribution of:
-
-Study hours
-
-Sleep duration per night
-
-Daily social media usage
-
-This helps identify central tendencies and potential outliers.
+- Visualize the distribution of:
+- Study hours
+- Sleep duration per night
+- Daily social media usage
+=> This helps identify central tendencies and potential outliers.
 
 2. Correlation with Exam Score
 Quantify how strongly each of the following correlates with final exam score:
