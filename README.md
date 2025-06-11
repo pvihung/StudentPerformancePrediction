@@ -59,6 +59,5 @@ Train a Linear Regression model to predict final exam scores based on lifestyle 
 
 *Key steps:*
 - Train/test split
-- Feature scaling (if needed)
 - Model evaluation using metrics like R² and MAE/MSE
 - Analyze feature coefficients to interpret influence
